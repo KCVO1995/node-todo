@@ -1,0 +1,17 @@
+{
+  "name": "todo-kcvo",
+  "version": "0.0.4",
+  "main": "index.js",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "description": "todo-kcvo make you more efficient",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.3.0"
+  }
+}
