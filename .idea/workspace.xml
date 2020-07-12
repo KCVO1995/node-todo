@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbd3c006-984f-42cf-b7d7-10016ea5f13e" name="Default Changelist" comment="" />
+    <list default="true" id="bbd3c006-984f-42cf-b7d7-10016ea5f13e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__mocks__/fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/db.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nodo-todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nodo-todo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eSAjjGOB6gl7ON80wwycjQcr4o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +37,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Web\node\nodo-todo" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="cli.js" type="NodeJSConfigurationType" temporary="true" application-parameters="add" nameIsGenerated="true" path-to-js-file="cli.js" working-dir="$PROJECT_DIR$">
@@ -62,6 +83,7 @@
       <updated>1594304757247</updated>
       <workItem from="1594304760107" duration="7985000" />
       <workItem from="1594389636120" duration="12336000" />
+      <workItem from="1594564146328" duration="7554000" />
     </task>
     <servers />
   </component>
@@ -89,9 +111,21 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="915" height="306" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1594308640325" />
-    <state x="894" y="237" key="SettingsEditor" timestamp="1594391726623">
+    <state x="526" y="438" key="SettingsEditor" timestamp="1594565518465">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="894" y="237" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1594391726623" />
+    <state x="526" y="438" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1594565518465" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/__mocks__/fs.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
